@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TestCsv
+namespace ConsoleCsvParser
 {
     class Program
     {
